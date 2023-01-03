@@ -14,7 +14,7 @@
     -> Améliorer l’application d’intelligence artificielle en développant une évolution fonctionnelle  pour répondre à un besoin exprimé par un client ou un utilisateur. 
     -> Maintenir l’application d’intelligence artificielle à l’aide des techniques de monitorage afin de détecter et corriger les éventuels dysfonctionnements. 
 ## Le besoin client
-    Le client souhaite créer une application "public" qui permettra aux utlisateurs de vérifier la véracité de l'information qui circule sur Internet. 
+    Le client souhaite créer une application "public" qui permettra aux utilisateurs de vérifier la véracité de l'information qui circule sur Internet.
         -> l'utilisateur doit pouvoir rentrer un titre, un texte entier, une partie ou au minimum un mot, un sujet ainsi que la date de son information puis valider en cliquant sur un bouton.
         -> L'application doit pouvoir se connecter au programme de l'intelligence artificielle afin de détecter si l'information fournie par l'utilisateur est vraie ou fausse. Le programme IA renvoi la réponse à l'application qui affiche le résultat à l'utilisateur.
-        -> Le client doit pouvoir accéder au panneau administrateur afin de mettre à jour le jeu de données et vérifier que le programme de potentiels dysfonctionnement.
+        -> Le client doit pouvoir accéder au panneau administrateur afin de mettre à jour le jeu de données et vérifier que le programme n'ai pas de potentiels dysfonctionnement. Il peut également visualiser des diagrammes visuels sur les mots, informations les plus demandées afin de faire un suivi.
